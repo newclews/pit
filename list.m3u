@@ -213,35 +213,7 @@ http://s.only4.tv/7828/index.m3u8?token=GTwTJALNLj
 https://live.adultiptv.net/gay.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 1
 http://s.only4.tv/7770/index.m3u8?token=GTwTJALNLj
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 2
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546415
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 3
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546416
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 4
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546417
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 5
-
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 6
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546419
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 7
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546420
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 8
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546421
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 9
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546422
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 10
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546423
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 11
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546424
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 12
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546425
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 13
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546426
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 14
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546427
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 15
-http://miilista.sytes.net:8080/JULIO26U/DV3TAft6dR/546428
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LIVE 16
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", XMO
 http://pelwmuqx.megatv.fun/iptv/THLKQS3GM3ZEU8/6285/index.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SPECTRUM CHANNEL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
