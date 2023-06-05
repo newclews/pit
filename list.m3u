@@ -1,2 +1,2 @@
-#EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original",
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SPECTRUM CHANNEL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
