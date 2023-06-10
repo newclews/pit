@@ -1,6 +1,6 @@
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SPECTRUM CHANNEL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TESTE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1686420366/ei/LmeEZK3yKs-j4dUPwp6D4Ao/ip/177.148.86.212/id/Y5ufQsAf1Is.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/spc/qEK7B0I6jzloc3qI1H7ei9kcllu2xfiVhLkZFZXcdQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJISu-EWAsB6mUajZsatRgUMju6MgXhN7RJc900P54VJAiEAk0f6-VBvAt0t95kjt0Murh_Rgh2_k_9T4N1kVRnZ0os%3D/file/index.m3u8
+https://newclews.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TESTE 2
 
