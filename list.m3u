@@ -1,6 +1,6 @@
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SPECTRUM CHANNEL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TESTE
-https://newclews.newclews.workers.dev/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1686493906/ei/coaFZKS7NuCdobIP2vGI4AQ/ip/162.158.193.155/id/Y5ufQsAf1Is.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr6---sn-uphcg51pa-bpbe.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/spc/qEK7B6O97Sz0c-H6FHwTsJG45gKPYUqbqHRIGYGacQ/vprv/1/playlist_type/DVR/initcwndbps/1168750/mh/E0/mip/177.148.86.212/mm/44/mn/sn-uphcg51pa-bpbe/ms/lva/mv/m/mvi/6/pl/20/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363392/mt/1686472605/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgAqPmflCK0hvcvzmSlWJAnfHFpgO6C3Qu2rX5FRVFfWMCIDP9USmEOtzdwCO4KqftI3DrW8_XlCiPNsgX5-V4Sr9G/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgUPmxGod4DC8wG27DU-MAnEooEY6pioMC7uy2B4svdoICIQCVDyo6AQ_AFMFWlrt6bEjHwNKXd0lgiZvRKTD0Inoblw%3D%3D/playlist/index.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TESTE 2
 
