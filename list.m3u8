@@ -21,6 +21,8 @@ https://sonicpanel.oficialserver.com:7013/;stream/live.mp3
 http://radyo.yayin.com.tr:5998//;stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://m.media-amazon.com/images/I/51sGEtB3QjL.png", POSITIVIDADE FM
 https://26483.live.streamtheworld.com/POSITIVIDADE_FM_ADP/HLS/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Radios" logo="", RÁDIO ALVORADA MG
+https://24253.live.streamtheworld.com/RADIO_ALVORADAAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logotipo_da_Antena_1.png", RADIO ANTENA 1 RJ
 http://a1rj.streams.com.br:7801/sm
 #EXTINF:0 type="stream" group-title="Radios" logo="", JB FM RJ
