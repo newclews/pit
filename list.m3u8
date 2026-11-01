@@ -11,6 +11,8 @@ https://stm10.xcast.com.br:11376/stream
 https://servidor22-2.brlogic.com:7076/live?source=8542
 #EXTINF:0 type="stream" group-title="Radios" logo="", REDE NOVAMERICA RJ
 http://stm11.xcast.com.br:10392/stream
+#EXTINF:0 type="stream" group-title="Radios" logo="", POOL FM SP
+https://radios.poolwebwork.com.br/8010/stream
 #EXTINF:0 type="stream" group-title="Radios" logo="", BEAT STREET MG
 http://stm21.painelcast.com:7618
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/BQDyY0o.png", RÁDIO PLANETA DO VINIL 
