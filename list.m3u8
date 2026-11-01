@@ -9,6 +9,8 @@ https://servidor25.brlogic.com:7024/live
 https://stm10.xcast.com.br:11376/stream
 #EXTINF:0 type="stream" group-title="Radios" logo="", TRIBUNA FM RJ
 https://servidor22-2.brlogic.com:7076/live?source=8542
+#EXTINF:0 type="stream" group-title="Radios" logo="", REDE NOVAMERICA RJ
+http://stm11.xcast.com.br:10392/stream
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/BQDyY0o.png", RÁDIO PLANETA DO VINIL 
 https://stm5.conectastreaming.com:15276/;stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/uXas5JK.png", Eternamente Funk Melody
@@ -43,6 +45,8 @@ https://27433.live.streamtheworld.com/RADIO_KISSFM_ADP.aac
 https://24283.live.streamtheworld.com/RADIOCIDADEAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
 http://listen.181fm.com:7080/181-energy98_128k.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="", MANCHETE FM RJ
+https://8410.brasilstream.com.br/stream
 #EXTINF:0 type="stream" group-title="Radios" logo="", RÁDIO GLOBO FM RJ
 https://24423.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/94_FM_%28Rio_de_Janeiro%29_logo.png", 94 FM RJ
