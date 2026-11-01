@@ -57,5 +57,7 @@ http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
 https://whur-das.cdnstream1.com/7028_48k.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="", WHQT HOT 105 (USA)
 https://tunein-live-f.cdnstream1.com/4574_64.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="", THE BEAT JAMZ 105,7 (USA)
+http://ice66.securenetsystems.net/WORNDB
 #EXTINF:0 type="stream" group-title="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
 http://listen.181fm.com:7080/181-energy98_128k.mp3
