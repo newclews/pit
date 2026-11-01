@@ -43,8 +43,6 @@ https://24443.live.streamtheworld.com/RADIO_89FM_ADP.aac
 https://27433.live.streamtheworld.com/RADIO_KISSFM_ADP.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://m.media-amazon.com/images/I/51x4QvuJsWL.png", RÁDIO CIDADE RJ
 https://24283.live.streamtheworld.com/RADIOCIDADEAAC.aac
-#EXTINF:0 type="stream" group-title="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
-http://listen.181fm.com:7080/181-energy98_128k.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="", MANCHETE FM RJ
 https://8410.brasilstream.com.br/stream
 #EXTINF:0 type="stream" group-title="Radios" logo="", RÁDIO GLOBO FM RJ
@@ -55,3 +53,7 @@ http://radio01.logicahost.com.br:8300/stream.mp3
 https://27363.live.streamtheworld.com/CBN_RJAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Radios" logo="", WHUR 96,3 (USA)
+https://whur-das.cdnstream1.com/7028_48k.aac
+#EXTINF:0 type="stream" group-title="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
+http://listen.181fm.com:7080/181-energy98_128k.mp3
