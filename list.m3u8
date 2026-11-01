@@ -53,11 +53,11 @@ http://radio01.logicahost.com.br:8300/stream.mp3
 https://27363.live.streamtheworld.com/CBN_RJAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
-#EXTINF:0 type="stream" group-title="Radios" logo="", WHUR 96,3 (USA)
+#EXTINF:0 type="stream" group-title="Radios" logo="", WHUR (USA)
 https://whur-das.cdnstream1.com/7028_48k.aac
-#EXTINF:0 type="stream" group-title="Radios" logo="", WHQT HOT 105 (USA)
+#EXTINF:0 type="stream" group-title="Radios" logo="", WHQT HOT 105.3 (USA)
 https://tunein-live-f.cdnstream1.com/4574_64.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="", THE BEAT JAMZ 105,7 (USA)
+#EXTINF:0 type="stream" group-title="Radios" logo="", THE BEAT JAMZ 105.7 (USA)
 http://ice66.securenetsystems.net/WORNDB
 #EXTINF:0 type="stream" group-title="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
 http://listen.181fm.com:7080/181-energy98_128k.mp3
