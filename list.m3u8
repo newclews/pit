@@ -57,6 +57,8 @@ https://27363.live.streamtheworld.com/CBN_RJAAC.aac
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="", WHUR (USA)
 https://whur-das.cdnstream1.com/7028_48k.aac
+#EXTINF:0 type="stream" group-title="Radios" logo="", KKST KISS 98.7 (USA)
+https://ice5.securenetsystems.net/KKST
 #EXTINF:0 type="stream" group-title="Radios" logo="", WHQT HOT 105.3 (USA)
 https://tunein-live-f.cdnstream1.com/4574_64.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="", THE BEAT JAMZ 105.7 (USA)
